@@ -2,7 +2,7 @@ import React from 'react';
 
 export default (props) => (
     <div>
-        <h1 className="center">Top Secret Documnt</h1>
+        <h1 className="center">Top Secret Document</h1>
         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis eaque optio rerum! Odit nesciunt minus reprehenderit ullam. Impedit, ea libero!</p>
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa, repellendus! Aliquid incidunt, sed dolorum unde possimus fugiat sunt consectetur eum ipsam, accusantium soluta natus.</p>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi unde similique dolores, porro fugit officia itaque vel sed minus tempora distinctio exercitationem, nostrum minima ea ullam non eius, nemo explicabo obcaecati at voluptatum nam odio necessitatibus! Deleniti repellat quaerat molestiae iusto nihil consectetur nisi recusandae quod, eius quis provident voluptatibus.</p>
